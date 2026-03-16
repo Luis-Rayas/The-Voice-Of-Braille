@@ -30,7 +30,7 @@ La aplicación funciona como una interfaz de control para un hardware externo ba
 
 - **Lenguaje de Programación**: Java 8
 - **Interfaz Gráfica**: Java Swing
-- **Comunicación Serial**: Biblioteca `PanamaHitek_Arduino`
+- **Comunicación Serial**: Biblioteca [PanamaHitek_Arduino](https://github.com/PanamaHitek/PanamaHitek_Arduino)
 - **Reconocimiento y Síntesis de Voz**: Java Speech API (JSAPI)
 - **Hardware**: Placa Arduino (o compatible) para controlar la impresora Braille.
 - **Entorno de Desarrollo**: Apache NetBeans
